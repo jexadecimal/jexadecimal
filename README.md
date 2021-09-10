@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jexadecimal
-- 👀 I’m interested in PHP, MYSQL, Laravel
-- 🌱 I’m currently learning PHP
+- 👀 I’m interested in PHP, MYSQL, Laravel, VUEjs
+- 🌱 I’m currently learning PHP and Vuejs
 - 💞️ I’m looking to collaborate on ...I don't know yet :(
 - 📫 How to reach me jexad3cimal@gmail.com
 
